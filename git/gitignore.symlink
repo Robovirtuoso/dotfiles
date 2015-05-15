@@ -22,3 +22,4 @@
 /nbproject/
 tags
 tmp
+.gem/*
