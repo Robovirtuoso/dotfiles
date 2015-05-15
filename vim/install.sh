@@ -50,5 +50,6 @@ get_bundle tpope vim-tbone
 get_bundle tpope vim-unimpaired
 get_bundle tpope vim-vividchalk
 get_bundle vim-scripts bufkill.vim
+get_bundle scrooloose nerdtree
 
 vim -c 'call pathogen#helptags()|q'
